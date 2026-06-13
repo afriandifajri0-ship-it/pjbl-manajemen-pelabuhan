@@ -6,3 +6,4 @@ CREATE TABLE pelabuhan (
     kota VARCHAR(50) NOT NULL,
     status_dermaga VARCHAR(20) NOT NULL
 );
+
