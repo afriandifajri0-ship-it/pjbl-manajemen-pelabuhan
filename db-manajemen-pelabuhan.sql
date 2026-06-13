@@ -1,3 +1,5 @@
+CREATE DATABASE db_manajemen_pelabuhan;
+
 USE db_manajemen_pelabuhan;
 
 CREATE TABLE pelabuhan (
