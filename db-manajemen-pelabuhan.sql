@@ -72,12 +72,12 @@ INSERT INTO kapal (id_kapal, nama_kapal, kapasitas_penumpang) VALUES
 INSERT INTO petugas (id_petugas, nama_petugas, peran) VALUES
 ('P01', 'Fajri', 'Operator Loket'),
 ('P02', 'Gina', 'Syahbandar'),
-('P03', 'Andi', 'Operator Loket');
+('P03', 'Raihanum', 'Operator Loket');
 
 INSERT INTO penumpang (id_penumpang, nik_penumpang, nama_penumpang) VALUES
 (1, '217200000001', 'Iqbal'),
 (2, '217200000002', 'Rahmat'),
-(3, '217200000003', 'Siti');
+(3, '217200000003', 'Gendo');
 
 INSERT INTO rute (id_rute, id_pelabuhan_asal, id_pelabuhan_tujuan, jarak_mil) VALUES
 ('R01', 1, 2, 15.50),
